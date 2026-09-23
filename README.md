@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hello There, I'm Shwe Yin Min Oo
 
 > 🎓 Student @ Ajou University
