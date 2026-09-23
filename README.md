@@ -1,7 +1,9 @@
 # 👋 Hello There, I'm Shwe Yin Min Oo
 
 > 🎓 Student @ Ajou University
+
 > 🏫 Formerly @ University of Computer Studies, Yangon (UCSY)
+
 > 📊 Machine Learning · Data Analysis · Data Science · AI Engineering
 
 Interested in **machine learning and data science**, with a focus on turning raw data into **meaningful insights** and building **data-driven solutions** to real-world problems.
